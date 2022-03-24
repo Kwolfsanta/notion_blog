@@ -1,6 +1,6 @@
 import './index.scss';
 import React from 'react';
-class PageContainer extends React.Component() {
+class PageContainer extends React.Component {
   render() {
     return (
       <div className="page-container">

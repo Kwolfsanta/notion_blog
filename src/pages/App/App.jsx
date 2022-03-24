@@ -4,7 +4,7 @@ import Card from '../../components/Card/index';
 import PageContainer from '../../components/PageContainer/index';
 import { Routes, Route } from 'react-router-dom';
 
-class App extends React.Component() {
+class App extends React.Component {
 
   // handleClick = () => {
   //   this.props.history.push('/content');
